@@ -1,1 +1,1 @@
-# www.jeremyoury.fr
+# website jeremyoury.fr digital artist
