@@ -107,7 +107,7 @@
         
         /**
          * this widget https://github.com/silexlabs/Silex/issues/443
-         */
+        
         $(function() {
         
             window.sr = ScrollReveal({
@@ -118,4 +118,4 @@
             sr.reveal('.from-top', { origin:  'top'});
             sr.reveal('.from-bottom', { origin:  'bottom'});
         
-        })
+        }) */
