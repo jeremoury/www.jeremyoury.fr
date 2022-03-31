@@ -71,8 +71,8 @@ $(function() {
     $(window).scroll(function(){
         var fromTop = $(this).scrollTop() + 50;
         var cur = scrollItems.map(function(){
-         if ($(this.item).offset().top <= fromTop)
-           return this;
+            if ($(this.item).offset().top <= fromTop)
+            return this;
         });
         $(".active-menu").removeClass("active-menu");
         if(cur.length > 0) {
