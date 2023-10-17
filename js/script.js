@@ -2,7 +2,6 @@
 
     window.silex = window.silex || {}
     window.silex.data = {"site":{"width":960},"pages":[{"id":"page-jeremyoury","displayName":"jeremyoury","link":{"linkType":"LinkTypePage","href":"#!page-jeremyoury"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false}]}
-
 /* keep the menu visible when you scroll down */
 $(function() {
     var nav = $(".nav");
