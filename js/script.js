@@ -24,7 +24,7 @@ $(function() {
             nav.css('z-index', '101');
         }
     });
- });
+});
         
 /*
 * active menu widget for Silex
